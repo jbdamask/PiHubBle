@@ -55,11 +55,7 @@ Service <uuid=6e400001-b5a3-f393-e0a9-e50e24dcca9e handleStart=31 handleEnd=38> 
 
 ## ToDo
 
-* I'm going to [change the device name](https://learn.adafruit.com/bluefruit-le-micro-atmega32u4-microcontroller-usb-bluetooth-le-in-one/ble-gap#at-plus-gapdevname) on my Feathers in the future. This will let me better target the ones tracked by PiHub. I'll have to change the name to search for in this code
-
 ## Bugs
-
-* When new devices come online, their state should be synchronized. It's not happening
 
 ## License
 
